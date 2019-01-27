@@ -4,9 +4,7 @@ h1 {
     font-size: 42px;
 }
 a {
-    color: white;
-    font-weight: bold;
-    font-style: italic;
+    color: #404040;
 }
 header {
     background: #5459A7;
@@ -62,6 +60,9 @@ footer {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 14px;
     text-align: center;
+    color: white;
+}
+footer a {
     color: white;
 }
 
